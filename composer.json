@@ -1,0 +1,18 @@
+{
+    "name": "karimbox/easy-dates",
+    "description": "a php package to simplify handling dates in your apps.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Karimbox\\EasyDates\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdelkarim CHAMLAL",
+            "email": "abdelkarim.chamlal@gmail.com"
+        }
+    ],
+    "require": {}
+}
